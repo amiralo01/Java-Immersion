@@ -23,6 +23,12 @@ Além da funcionalidade básica mencionada anteriormente, também foi proposto a
 *  Transformar a classe que representa os conteúdos em um [Record](https://www.guiadojava.com.br/2021/04/java-records.html), disponível a partir do Java 16.
 *  Criar [exceções](https://github.com/amiralo01/Java-Immersion/blob/main/Alura_Stickers/src/ClientHttpException.java) personalizadas e usá-las na classe que implementa o [cliente HTTP](https://github.com/amiralo01/Java-Immersion/blob/main/Alura_Stickers/src/ClientHttp.java).
 
+## Requisitos
+
+* [JDK](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe).
+* [Visual Studio Code](https://code.visualstudio.com/download) or [Eclipse](https://www.eclipse.org/downloads/packages/installer).
+* Caso instale o Visual Studio Code, instalar a extensão [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
+
 ## Referências
 
 * [Estilização do texto no terminal](https://www.alura.com.br/artigos/decorando-terminal-cores-emojis)
